@@ -23,7 +23,4 @@ I built an E-commerce Sales Performance Dashboard using **MySQL** and **Power BI
 - **Best Performing Region:** West  
 - **Top Product Category:** Technology
 
-##  Dashboard Snapshot
-![Ecommerce Sales Performance Dashboard](Ecommerce Dashboard Image.png)
-
 ##  Thankyou!
